@@ -1,0 +1,6 @@
+Co-op Mode is where 2 players play together in support of each other.
+Its similar to 2 people playing on a ps2 controller on a same console.
+
+Here player1 Plays on Keyboard with default settings as of single players
+     
+     player2 Plays on Mouse With left click to move similar to a joystick and has auto firing mode
